@@ -1,2 +1,4 @@
 # UCB_Pacman_FullScore
-My code for UCB Pacman hw project. (full score. A*, Reinforcement Learning, Inference etc.)
+My solution for UCB Pacman hw project. (full score. A*, Reinforcement Learning, Inference etc.)
+UCB pacman: http://ai.berkeley.edu/project_overview.html
+Enjoy coding! :)
