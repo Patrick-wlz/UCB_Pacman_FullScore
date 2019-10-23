@@ -3,6 +3,6 @@ My solution for UCB Pacman hw project. (full score. A*, Reinforcement Learning, 
 
 UCB pacman: http://ai.berkeley.edu/project_overview.html
 
-Some of the original tstcases wasn't uploaded.
+Some of the original testcases were not uploaded.
 
 Enjoy coding! :)
