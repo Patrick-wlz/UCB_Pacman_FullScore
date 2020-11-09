@@ -1,4 +1,4 @@
-# UCB_Pacman_Full_Score
+# UCB_CS188_Pacman_Full_Score
 My solution for UCB Pacman hw project. (full score. A*, Reinforcement Learning, Inference etc.)
 
 UCB Pacman: http://ai.berkeley.edu/project_overview.html
